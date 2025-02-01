@@ -234,26 +234,26 @@ body {
 }
 
 .reset button {
-  font-weight: 800;
-  font-style: normal;
-  transition: all 0.1s linear;
-  -webkit-appearance: none;
-  background-color: transparent;
-  border: solid 2px #ff5757;
-  border-radius: 4px;
-  color: #ff5757;
-  display: inline-block;
-  font-size: 14px;
-  text-transform: uppercase;
-  margin: 5px;
-  padding: 10px;
-  line-height: 1em;
-  text-decoration: none;
-  min-width: 120px;
-  cursor: pointer;
+font-weight: 800;
+font-style: normal;
+transition: all 0.1s linear;
+-webkit-appearance: none;
+background-color: transparent;
+border: solid 2px #ff5757;
+border-radius: 4px;
+color: #ff5757;
+display: inline-block;
+font-size: 14px;
+text-transform: uppercase;
+margin: 5px;
+padding: 10px;
+line-height: 1em;
+text-decoration: none;
+min-width: 120px;
+cursor: pointer;
 }
 
 .reset button:hover {
-  background-color: #fc9d9d;
-  color: #a10000;
+background-color: #fc9d9d;
+color: #a10000;
 }
